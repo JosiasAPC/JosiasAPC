@@ -8,7 +8,7 @@
 ## My Skills
 
 <ul>
-  <li><b>Languages & Frameworks:</b> JavaScript, Node.js, React, HTML5, CSS3</li>
+  <li><b>Languages & Frameworks:</b> JavaScript,HTML5, CSS3, Node.js, React, Next, Vite </li>
   <li><b>Databases:</b> SQL (MySQL, PostgreSQL)</li>
   <li><b>Version Control:</b> Git, GitHub, GitLab</li>
   <li><b>Methodologies:</b> Scrum, Kanban</li>
